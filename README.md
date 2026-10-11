@@ -1,1 +1,0 @@
-# MySQL_Assignment-1-DDL-Commands-and-Constraints
